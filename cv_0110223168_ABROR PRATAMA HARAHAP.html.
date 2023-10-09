@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CURRICULUM VITAE</title>
+</head>
+<body style="background-color: #ededed;">
+    <h1>CURRICULUM VITAE</h1>
+    <td><img src="foto.jpeg" width="200px" height="250px"border="2" alt="foto" style="float: right;"></td>
+    
+    <hr style="height: 2px;background-color: black;">
+    <h2 >DATA PRIBADI</h2>
+    <table>
+        <tr>
+            <td width="1%">Nama</td>
+        <td width="5%">: Abror Pratama</td>
+     </tr>
+     <tr>
+         <td>Tempat,Tanggal Lahir</td>
+         <td>: Padangsidimpuan, 08 November 2004</td>
+        </tr>
+        <tr>
+            <td>Umur</td>
+            <td>: 19 tahun</td>
+        </tr>
+        <tr>
+            <td>Alamat</td>
+            <td>: Jalan Lenteng Agung Timur No. 36, Srengseng Sawah, Jagakarsa, Kota Jakarta Selatan, DKI Jakarta</td>
+        </tr>
+        <tr>
+            <td>Agama</td>
+            <td>: Islam</td>
+           </tr>
+           <tr>
+            <td>Handphone</td>
+            <td>: 082277408945</td>
+           </tr>
+           <tr>
+            <td>Status</td>
+            <td>: Mahasiswa Aktif</td>
+           </tr>
+           <tr>
+            <td>E-Mail</td>
+            <td>: <a href="#" style="text-decoration: none;">abro23168ti@student.nurulfikri.ac.id</a></td>
+           </tr>
+           <tr>
+            <td>Github</td>
+            <td>: <a href="https://github.com/AbrorPratama24" class="button" target="_blank" style="text-decoration: none;">github.com/AbrorPratama24</a></td>
+           </tr>
+           <tr>
+            <td>Linkedin</td>
+            <td>: <a href="https://www.linkedin.com/in/abror-pratama-33ab33293" class="button" target="_blank" style="text-decoration: none;">linkedin.com/in/abror-pratama</a></td>
+           </tr>
+           <tr>
+            <td>Instagram</td>
+            <td>: <a href="https://www.instagram.com/do.brar/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" class="button" target="_blank" style="text-decoration: none;">instagram.com/do.brar</a></td>
+           </tr>
+        </table>
+        <br>
+    <h2>DATA PENDIDIKAN</h2>
+<hr style="height: 2px;background-color: black;">
+    <table>
+        <tr>
+            <td width="1%">Sekolah Dasar</td>
+            <td width="5%">: Min 1 Sihadabuan Padangsidimpuan (2011-2017) </td>
+         </tr>
+         <tr>
+             <td>SMP</td>
+            <td>: SMP N 4 Padangsidimpuan (2017-2020) </td>
+        </tr>
+        <tr>
+            <td>SMA</td>
+            <td>: SMA N 4 Padangsidimpuan (2020-2023) </td>
+        </tr>
+        <tr>
+            <td>Pergururan Tinggi</td>
+            <td>: STT Terpadu Nurul Fikri (2023-2027) </td>
+        </tr>
+    </table>
+    <br>
+    <h2>KEMAMPUAN</h2>
+<hr style="height: 2px;background-color: black;">
+    <table>
+        <tr>
+            <td width="1%">Web Developer</td>
+            <td width="5%">: HTML,CSS,JAVASCRIPT</td>
+        </tr>
+        <tr>
+            <td>Game Mobile</td>
+            <td>: MLBB,PUBG,COC</td>
+        </tr>
+    </table>
+    <br>
+    <h2>PENGALAMAN KERJA</h2>
+    <hr style="height: 2px;background-color: black;">
+    <table>
+        <tr>
+            <td width="1%">Joki Game Online</td>
+            <td width="5%">: MLBB,PUBG,COC,DLL</td>
+        </tr>
+        <tr>
+            <td>Employee</td>
+            <td>: Penjahit</td>
+        </tr>
+    </table>
+    <br>
+    
+</body>
+</html>
